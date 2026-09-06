@@ -51,3 +51,7 @@ Portal product loop (separate from booth media):
 - The live Cloudflare TURN token configuration
 
 `live/FJNBoothIPv2/turn-config.example.php` documents the required configuration keys. Create `turn-config.php` / `.env` only on the server and never commit them.
+
+## Chief of Staff — open-ready checkpoint
+
+Open-ready freeze for doorway + booth map + YE2 next: see [`chiefofstaff-checkpoint/OPEN-READY.md`](chiefofstaff-checkpoint/OPEN-READY.md).
