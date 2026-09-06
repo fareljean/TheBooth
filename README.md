@@ -28,6 +28,13 @@ Each version contains:
 - `FJNBoothIPv1/` — two-seat booth
 - `FJNBoothIPv2/` — four-seat booth
 
+## Chief 4-of-a-kind checkpoint
+
+Replace-ready freeze of the proven BoothsOrigins green POC (2+4 seat, leave/rejoin, 4-up media):
+
+- Folder: [`chief4ofakind/`](./chief4ofakind/) — `FJNBoothIPv1/` + `FJNBoothIPv2/`
+- Use this to replace old production FJN booth folders via Hostinger File Manager after confirmation.
+
 ## Verified on Hostinger (2026-09-06)
 
 - `1FJNBoothIPv*` index hashes match `original/`; `signal.php?action=create` returns **201** without a pass (media path open).
