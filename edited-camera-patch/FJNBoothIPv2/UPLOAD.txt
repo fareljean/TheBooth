@@ -1,0 +1,20 @@
+FJN BOOTH V2 — FOUR-SEAT TEST BUILD
+
+Upload the contents of this ZIP into a NEW Hostinger folder.
+Do not overwrite or remove the proven V1 folder.
+
+Files:
+- index.html
+- signal.php
+- .htaccess
+- booth-data/.htaccess
+
+Test order:
+1. Person 1 creates the room and shares the key.
+2. Persons 2, 3, and 4 join the same key.
+3. Confirm all four seat indicators.
+4. Test audio one person at a time.
+5. Tap START AUDIO where Safari requires it.
+6. Test cameras after four-way audio succeeds.
+
+This is a four-person mesh test build. It uses STUN and does not yet include TURN.

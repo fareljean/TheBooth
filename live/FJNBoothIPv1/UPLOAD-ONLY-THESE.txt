@@ -1,0 +1,22 @@
+FJN BOOTH V3 — HOSTINGER UPLOAD
+
+Upload the CONTENTS of this folder into:
+public_html/fjnboothv3ips01/
+
+The online folder must contain exactly:
+- index.html
+- signal.php
+- .htaccess
+- booth-data/ (including its .htaccess)
+
+Do NOT upload certs, private keys, .mjs files, or the mobileconfig profile.
+
+After uploading, open:
+https://fareljean.com/fjnboothv3ips01/signal.php?action=ping
+
+Expected response:
+{"ok":true,"build":"FJN-Booth-V3-Hostinger-1"}
+
+Then test room creation with two devices.
+
+This build uses STUN only. Cross-network calls can still fail until TURN is added.

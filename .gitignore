@@ -1,0 +1,16 @@
+.DS_Store
+._*
+__MACOSX/
+
+**/turn-config.php
+**/.env
+**/.env.*
+!**/.env.example
+
+**/booth-data/*.json
+**/booth-data/*.lock
+**/booth-data/rate/
+!**/booth-data/.htaccess
+!**/booth-data/.gitkeep
+!**/booth-data/rate/.gitkeep
+
